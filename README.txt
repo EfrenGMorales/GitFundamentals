@@ -1,1 +1,1 @@
-sharing remote files is easy
+sharing remote files is easyFeature1
